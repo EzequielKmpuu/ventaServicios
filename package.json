@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "fecha": "^4.2.3",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "start": "node app.js",
+     "dev": "nodemon app.js",
+     "fechas": "node app.js"
+  }
+}
